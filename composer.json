@@ -1,0 +1,19 @@
+{
+    "name": "gullevek/noop",
+    "description": "An empty package that does nothing for init composer",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Gullevek\\Noop\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Clemens Schwaighofer",
+            "email": "gullevek@gullevek.org",
+            "homepage": "http://gullevek.org"
+        }
+    ],
+    "require": {}
+}
