@@ -4,7 +4,7 @@ When there is a need to init a composer setting but there is no wish to set any 
 
 ## Install
 
-`composer require gullevek\Noop`
+`composer require gullevek/noop`
 
 ## Usage
 
