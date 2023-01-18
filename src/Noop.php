@@ -10,12 +10,12 @@ namespace gullevek\Noop;
  */
 final class Noop
 {
-	/**
-	 * A dummy action that does nothing
-	 *
-	 * @return void
-	 */
-	public function noop()
-	{
-	}
+    /**
+     * A dummy action that does nothing
+     *
+     * @return void
+     */
+    public function noop()
+    {
+    }
 }
